@@ -1,0 +1,18 @@
+/* ----------------------------------------
+Single page
+---------------------------------------- */
+
+.page-content{padding: 15px;}
+
+.page-content p{text-align: justify;}
+
+/* ----------------------------------------
+Page 404
+---------------------------------------- */
+
+.noresult{
+    max-width: 968px;
+    height:auto;
+    padding: 10px;
+    text-align: left;
+}
