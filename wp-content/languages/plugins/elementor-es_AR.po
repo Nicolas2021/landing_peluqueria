@@ -963,7 +963,7 @@ msgstr "¿Estás seguro de que querés borrar los ajustes de tu sitio?"
 msgid "The Global value you are trying to use is not available."
 msgstr "El valor global que estás intentando usar no está disponible."
 
-#: includes/controls/media.php:196
+#: includes/controls/media.php:195
 msgid "Choose SVG"
 msgstr "Elegir SVG"
 
@@ -989,7 +989,7 @@ msgid "Site Favicon"
 msgstr "Favicon del sitio"
 
 #: core/kits/documents/tabs/settings-site-identity.php:93
-#: assets/js/onboarding.63276cc105f0e633544f.bundle.js:1048
+#: assets/js/onboarding.5ceee1b219b66e943cb0.bundle.js:1048
 msgid "Site Logo"
 msgstr "Logo del sitio"
 
@@ -1002,7 +1002,7 @@ msgid "Choose name"
 msgstr "Elegir nombre"
 
 #: core/kits/documents/tabs/settings-site-identity.php:71
-#: assets/js/onboarding.63276cc105f0e633544f.bundle.js:1044
+#: assets/js/onboarding.5ceee1b219b66e943cb0.bundle.js:1044
 msgid "Site Name"
 msgstr "Nombre del sitio"
 
@@ -1052,7 +1052,7 @@ msgstr "Rellenar"
 msgid "Object Fit"
 msgstr "Ajuste del objeto"
 
-#: includes/frontend.php:1408
+#: includes/frontend.php:1415
 msgid "Download"
 msgstr "Descargar"
 
@@ -1127,7 +1127,7 @@ msgstr "Dimensiones sugeridas de imagen: %1$s x %2$s píxeles."
 msgid "Reset Data"
 msgstr "Restablecer los datos"
 
-#: includes/controls/media.php:286
+#: includes/controls/media.php:285
 msgid "Click the media icon to upload file"
 msgstr "Hacé clic en el icono multimedia para subir el archivo"
 
@@ -1154,11 +1154,11 @@ msgstr "Si tenés un problema de carga, contactá con el administrador de tu sit
 msgid "Alt"
 msgstr "Alt"
 
-#: core/kits/documents/tabs/settings-lightbox.php:86 includes/frontend.php:1412
+#: core/kits/documents/tabs/settings-lightbox.php:86 includes/frontend.php:1419
 msgid "Share"
 msgstr "Compartir"
 
-#: core/kits/documents/tabs/settings-lightbox.php:66 includes/frontend.php:1410
+#: core/kits/documents/tabs/settings-lightbox.php:66 includes/frontend.php:1417
 msgid "Fullscreen"
 msgstr "Pantalla completa"
 
@@ -1189,7 +1189,7 @@ msgstr "Borrador"
 msgid "Kit"
 msgstr "Kit"
 
-#: includes/frontend.php:1409
+#: includes/frontend.php:1416
 msgid "Download image"
 msgstr "Descargar imagen"
 
@@ -1271,11 +1271,11 @@ msgstr "Tamaño de los íconos de navegación"
 msgid "Toolbar Icons Size"
 msgstr "Tamaño de los íconos de la barra de herramientas"
 
-#: includes/frontend.php:1406
+#: includes/frontend.php:1413
 msgid "Share on Twitter"
 msgstr "Compartir en Twitter"
 
-#: includes/frontend.php:1405
+#: includes/frontend.php:1412
 msgid "Share on Facebook"
 msgstr "Compartir en Facebook"
 
@@ -1283,7 +1283,7 @@ msgstr "Compartir en Facebook"
 msgid "Custom Attributes"
 msgstr "Atributos personalizados"
 
-#: includes/frontend.php:1407
+#: includes/frontend.php:1414
 msgid "Pin it"
 msgstr "Fijarlo"
 
@@ -1372,16 +1372,16 @@ msgstr "Duración"
 msgid "Clear Log"
 msgstr "Vaciar el registro"
 
-#: includes/frontend.php:1415 assets/js/app.js:7834 assets/js/app.js:9516
+#: includes/frontend.php:1422 assets/js/app.js:7834 assets/js/app.js:9516
 #: assets/js/app.js:10432
-#: assets/js/onboarding.63276cc105f0e633544f.bundle.js:1674
-#: assets/js/onboarding.63276cc105f0e633544f.bundle.js:1725
-#: assets/js/onboarding.63276cc105f0e633544f.bundle.js:2004
-#: assets/js/onboarding.63276cc105f0e633544f.bundle.js:2281
+#: assets/js/onboarding.5ceee1b219b66e943cb0.bundle.js:1677
+#: assets/js/onboarding.5ceee1b219b66e943cb0.bundle.js:1728
+#: assets/js/onboarding.5ceee1b219b66e943cb0.bundle.js:2007
+#: assets/js/onboarding.5ceee1b219b66e943cb0.bundle.js:2284
 msgid "Next"
 msgstr "Siguiente"
 
-#: includes/frontend.php:1414 assets/js/app.js:8708 assets/js/app.js:9503
+#: includes/frontend.php:1421 assets/js/app.js:8708 assets/js/app.js:9503
 #: assets/js/app.js:10425
 msgid "Previous"
 msgstr "Anterior"
@@ -1555,7 +1555,7 @@ msgstr "Reproducir una vez"
 msgid "Upload SVG"
 msgstr "Subir SVG"
 
-#: includes/controls/media.php:193
+#: includes/controls/media.php:192
 msgid "Choose Video"
 msgstr "Elegir vídeo"
 
@@ -1652,7 +1652,7 @@ msgstr "Faltan algunos archivos de tu tema."
 msgid "Sign Up"
 msgstr "Registrate"
 
-#: includes/controls/media.php:299 includes/controls/media.php:301
+#: includes/controls/media.php:298 includes/controls/media.php:300
 #: assets/js/editor.js:8226
 msgid "Upload"
 msgstr "Subir"
@@ -1765,7 +1765,7 @@ msgstr "El problema probablemente era debido a uno de tus plugins o tu tema."
 msgid "Note: The ID link ONLY accepts these chars: %s"
 msgstr "Nota: El ID de enlace sólo acepta estos caracteres: %s"
 
-#: includes/controls/media.php:199
+#: includes/controls/media.php:198
 #: modules/link-in-bio/base/widget-link-in-bio-base.php:378
 msgid "Choose File"
 msgstr "Elegir archivo"
@@ -1804,11 +1804,11 @@ msgid "Location"
 msgstr "Ubicación"
 
 #. translators: %s: Current post name.
-#: includes/frontend.php:1549
+#: includes/frontend.php:1558
 msgid "Continue reading %s"
 msgstr "Seguí leyendo %s"
 
-#: includes/frontend.php:1542
+#: includes/frontend.php:1551
 msgid "(more&hellip;)"
 msgstr "(más&hellip;)"
 
@@ -2094,7 +2094,7 @@ msgstr "Creá tu primera página"
 #: includes/settings/admin-menu-items/getting-started-menu-item.php:23
 #: includes/settings/admin-menu-items/getting-started-menu-item.php:27
 #: includes/settings/admin-menu-items/getting-started-menu-item.php:52
-#: assets/js/onboarding.63276cc105f0e633544f.bundle.js:792
+#: assets/js/onboarding.5ceee1b219b66e943cb0.bundle.js:792
 msgid "Getting Started"
 msgstr "Primeros pasos"
 
@@ -2122,12 +2122,12 @@ msgstr "Navigator"
 #: includes/settings/admin-menu-items/getting-started-menu-item.php:56
 #: modules/announcements/module.php:122 assets/js/app-packages.js:2843
 #: assets/js/app.js:3965
-#: assets/js/onboarding.63276cc105f0e633544f.bundle.js:1269
-#: assets/js/onboarding.63276cc105f0e633544f.bundle.js:1486
-#: assets/js/onboarding.63276cc105f0e633544f.bundle.js:1577
-#: assets/js/onboarding.63276cc105f0e633544f.bundle.js:1820
-#: assets/js/onboarding.63276cc105f0e633544f.bundle.js:1995
-#: assets/js/onboarding.63276cc105f0e633544f.bundle.js:2316
+#: assets/js/onboarding.5ceee1b219b66e943cb0.bundle.js:1269
+#: assets/js/onboarding.5ceee1b219b66e943cb0.bundle.js:1488
+#: assets/js/onboarding.5ceee1b219b66e943cb0.bundle.js:1580
+#: assets/js/onboarding.5ceee1b219b66e943cb0.bundle.js:1823
+#: assets/js/onboarding.5ceee1b219b66e943cb0.bundle.js:1998
+#: assets/js/onboarding.5ceee1b219b66e943cb0.bundle.js:2319
 msgid "Skip"
 msgstr "Saltar"
 
@@ -2177,7 +2177,7 @@ msgstr "Cuando llenés tu página de contenido, esta ventana te va a dar una vis
 msgid "You created over 10 pages with Elementor. Great job! If you can spare a minute, please help us by leaving a five star review on WordPress.org."
 msgstr "Creaste más de 10 páginas con Elementor. ¡Bien hecho! Si tenés un minuto, ayudanos dejándonos una reseña de cinco estrellas en WordPress.org."
 
-#: core/kits/documents/tabs/settings-lightbox.php:76 includes/frontend.php:1411
+#: core/kits/documents/tabs/settings-lightbox.php:76 includes/frontend.php:1418
 #: includes/widgets/google-maps.php:170 assets/js/ai-admin.js:10249
 #: assets/js/ai-admin.js:10252 assets/js/ai-gutenberg.js:12100
 #: assets/js/ai-gutenberg.js:12103 assets/js/ai-media-library.js:11878
@@ -2442,7 +2442,7 @@ msgstr "Buscar plantillas:"
 #: assets/js/packages/editor-site-navigation/editor-site-navigation.js:2
 #: assets/js/packages/editor-site-navigation/editor-site-navigation.strings.js:1
 #: assets/js/packages/editor-site-navigation/editor-site-navigation.strings.js:3
-#: assets/js/packages/editor-site-navigation/editor-site-navigation.strings.js:4
+#: assets/js/packages/editor-site-navigation/editor-site-navigation.strings.js:7
 msgid "Pages"
 msgstr "Páginas"
 
@@ -2515,7 +2515,7 @@ msgstr "¿Quieres dar acceso solo al contenido?"
 msgid "Manage What Your Users Can Edit In Elementor"
 msgstr "Gestiona lo que tus usuarios pueden editar en Elementor"
 
-#: includes/frontend.php:1413 includes/widgets/video.php:994
+#: includes/frontend.php:1420 includes/widgets/video.php:994
 msgid "Play Video"
 msgstr "Reproducir vídeo"
 
@@ -2536,7 +2536,7 @@ msgstr "Elige el tipo de plantilla"
 #: includes/template-library/sources/admin-menu-items/add-new-template-menu-item.php:23
 #: modules/landing-pages/module.php:271 assets/js/app-packages.js:4610
 #: assets/js/packages/editor-site-navigation/editor-site-navigation.js:2
-#: assets/js/packages/editor-site-navigation/editor-site-navigation.strings.js:5
+#: assets/js/packages/editor-site-navigation/editor-site-navigation.strings.js:8
 msgid "Add New"
 msgstr "Agregar nueva"
 
@@ -2599,8 +2599,8 @@ msgid "No Results Found"
 msgstr "Ningún resultado"
 
 #: includes/editor-templates/templates.php:264
-#: assets/js/onboarding.63276cc105f0e633544f.bundle.js:2167
-#: assets/js/onboarding.63276cc105f0e633544f.bundle.js:2511
+#: assets/js/onboarding.5ceee1b219b66e943cb0.bundle.js:2170
+#: assets/js/onboarding.5ceee1b219b66e943cb0.bundle.js:2514
 msgid "or"
 msgstr "o"
 
@@ -2648,9 +2648,9 @@ msgid "Import Template"
 msgstr "Importar plantilla"
 
 #: core/kits/views/panel.php:44 includes/controls/icons.php:83
-#: includes/controls/icons.php:85 includes/controls/media.php:216
-#: includes/controls/media.php:218 includes/controls/media.php:295
-#: includes/controls/media.php:297 includes/editor-templates/repeater.php:27
+#: includes/controls/icons.php:85 includes/controls/media.php:215
+#: includes/controls/media.php:217 includes/controls/media.php:294
+#: includes/controls/media.php:296 includes/editor-templates/repeater.php:27
 #: modules/promotions/widgets/pro-widget-promotion.php:74
 #: assets/js/ai-admin.js:2940 assets/js/ai-admin.js:7620
 #: assets/js/ai-gutenberg.js:4709 assets/js/ai-gutenberg.js:9471
@@ -2815,7 +2815,7 @@ msgstr "Arrastra y suelta tu archivo de plantilla .JSON o .zip"
 #: includes/editor-templates/templates.php:282
 #: includes/widgets/traits/button-trait.php:56 assets/js/app.js:7575
 #: assets/js/app.js:8581
-#: assets/js/onboarding.63276cc105f0e633544f.bundle.js:2523
+#: assets/js/onboarding.5ceee1b219b66e943cb0.bundle.js:2526
 msgid "Click here"
 msgstr "Haz clic aquí"
 
@@ -3566,7 +3566,7 @@ msgstr "Extra pequeño"
 msgid "Improve Elementor"
 msgstr "Mejora Elementor"
 
-#: includes/frontend.php:1256
+#: includes/frontend.php:1263
 msgid "Invalid Data: The Template ID cannot be the same as the currently edited template. Please choose a different one."
 msgstr "Datos no válidos: El ID de la plantilla no puede ser el mismo que el de la plantilla que se está editando. Por favor, elige uno diferente."
 
@@ -3715,7 +3715,7 @@ msgstr "Biblioteca"
 
 #: core/base/document.php:170 includes/editor-templates/global.php:23
 #: includes/editor-templates/responsive-bar.php:68
-#: includes/editor-templates/responsive-bar.php:69 includes/frontend.php:1416
+#: includes/editor-templates/responsive-bar.php:69 includes/frontend.php:1423
 #: assets/js/ai-admin.js:1190 assets/js/ai-gutenberg.js:2959
 #: assets/js/ai-layout.js:1118 assets/js/ai-media-library.js:2819
 #: assets/js/ai.js:3601 assets/js/app-packages.js:2029
@@ -4113,7 +4113,7 @@ msgstr "Desvanecido"
 msgid "Effect"
 msgstr "Efecto"
 
-#: includes/controls/media.php:344
+#: includes/controls/media.php:343
 msgctxt "Image Size Control"
 msgid "Full"
 msgstr "Completo"
@@ -4683,7 +4683,7 @@ msgstr "Diapositivas a desplazar"
 msgid "Slides to Show"
 msgstr "Diapositivas a mostrar"
 
-#: includes/controls/media.php:190 includes/widgets/image-box.php:113
+#: includes/controls/media.php:189 includes/widgets/image-box.php:113
 #: includes/widgets/image.php:129 includes/widgets/testimonial.php:147
 #: includes/widgets/video.php:648
 #: modules/link-in-bio/base/widget-link-in-bio-base.php:242
@@ -5523,7 +5523,7 @@ msgstr "Responsive"
 #: modules/floating-buttons/module.php:91
 #: modules/floating-buttons/module.php:96 assets/js/editor.js:9687
 #: assets/js/editor.js:37124
-#: assets/js/onboarding.63276cc105f0e633544f.bundle.js:1444
+#: assets/js/onboarding.5ceee1b219b66e943cb0.bundle.js:1442
 msgid "Advanced"
 msgstr "Avanzado"
 
@@ -5657,7 +5657,7 @@ msgstr "Agregar nueva sección"
 #: assets/js/ai-gutenberg.js:4125 assets/js/ai-media-library.js:3985
 #: assets/js/ai.js:4767 assets/js/app-packages.js:5312
 #: assets/js/kit-library.ac1a4cd5deae5526ce49.bundle.js:236
-#: assets/js/onboarding.63276cc105f0e633544f.bundle.js:46
+#: assets/js/onboarding.5ceee1b219b66e943cb0.bundle.js:46
 msgid "Loading"
 msgstr "Cargando"
 
